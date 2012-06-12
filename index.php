@@ -398,51 +398,62 @@
 							<tr>
 								<th width="72%" scope="col">Initial Cleaning</th>
 								<th width="28%" scope="col">Fee</th>
+								<th width="28%" scope="col"><span style="color:Red">Promotional 20% Discount**</span></th>
 							</tr>
 							<tr>
 								<td>Studio-One Bedroom</td>
-								<td><div align="center">
+								<td><div align="center" style="text-decoration:line-through">
 									$205
 								</div></td>
+								<td><div align="center">$164</div></td>
 							</tr>
 							<tr>
 								<td>Two Bedroom</td>
-								<td><div align="center">
+								<td><div align="center" style="text-decoration:line-through">
 									$235
 								</div></td>
+								<td><div align="center">$188</div></td>
 							</tr>
 							<tr>
 								<td>Three Bedroom</td>
-								<td><div align="center">
+								<td><div align="center" style="text-decoration:line-through">
 									$265
 								</div></td>
+								<td><div align="center">$212</div></td>
 							</tr>
 							<tr>
 								<td>Four Bedroom</td>
-								<td><div align="center">
+								<td><div align="center" style="text-decoration:line-through">
 									$305
 								</div></td>
+								<td><div align="center">$244</div><br />
+                                </td>
 							</tr>
 							<tr>
 								<td>Five Bedroom +</td>
 								<td><div align="center">
 									*call
 								</div></td>
+								<td>&nbsp;</td>
 							</tr>
                             <tr>
                             	<td>Clients outside of the Beltway</td>
                             	<td><div align="center">
                             		Add $20
                             	</div></td>
+                            	<td>&nbsp;</td>
                             </tr>
                             <tr>
                                 <td>Clients with pets</td>
                             	<td><div align="center">
                             		Add $20
                             	</div></td>
+                            	<td>&nbsp;</td>
                             </tr>
 						</table>
-						<p>&nbsp;
+						<p>&nbsp;<small>
+						    ** Promotional discount ends July 31. Not to be combined with any other 
+                            promotional offers.</small>
 						</p>
 <h2>
 							Additional Services
