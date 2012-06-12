@@ -426,7 +426,7 @@
 								<td><div align="center" style="text-decoration:line-through">
 									$305
 								</div></td>
-								<td><div align="center">$244</div><br />
+								<td><div align="center">$244</div>
                                 </td>
 							</tr>
 							<tr>
@@ -451,6 +451,7 @@
                             	<td>&nbsp;</td>
                             </tr>
 						</table>
+						</br>
 						<p>&nbsp;<small>
 						    ** Promotional discount ends July 31. Not to be combined with any other 
                             promotional offers.</small>
