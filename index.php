@@ -320,7 +320,7 @@
 							Greener Workplaces
 						</h1>
 						
-						<p>
+						<p class="dropcap">
 							Presenting a clean business environment is paramount to impressing 
 								clients and customers, as well as improving morale among your 
 								employees. <img src="img/office300px.jpg" alt="Clean business environment." class="imgfix">
