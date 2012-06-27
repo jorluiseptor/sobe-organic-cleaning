@@ -43,6 +43,7 @@
 					<ul>
 						<li class="scroll"><a href="#ourmantra">Our Mantra</a></li>
 						<li class="scroll"><a href="#goinggreen">Go Green</a></li>
+						<li class="scroll"><a href="#greenerworkplaces">Greener Workplaces</a></li>						
 						<li class="scroll"><a href="#services">Services &amp; Fees</a></li>
 						<li class="scroll"><a href="#qa">Q &amp; A</a> </li>
 						<li class="scroll"><a href="#getstarted">Get Started</a></li>
@@ -309,6 +310,43 @@
 								</p>
 							</div>
 						</article>
+						<p class="backup scroll">
+							<a href="#home">back up &uarr;</a>
+						</p>
+					</section>
+					<section id="greenerworkplaces" class="page">
+						
+						<h1>
+							Greener Workplaces
+						</h1>
+						
+						<p>
+							Presenting a clean business environment is paramount to impressing 
+								clients and customers, as well as improving morale among your 
+								employees. <img src="img/office300px.jpg" alt="Clean business environment." class="imgfix">
+								We at SOBE Organic Cleaning are cleaning 
+								professionals who have over 15 years of experience ensuring a 
+								worry-free way for your business to maintain a professional 
+								atmosphere day after day.  We are licensed, insured and bonded, 
+								Green Seal Certified and happily provide environmentally conscious, 
+								green cleaning options to help commercial clients go green.  
+								Whether you require daily, weekly or monthly cleaning services—
+								whether your facility is a commercial office complex, an institutional or 
+								industrial facility, or simply a small business—we offer a full-range of 
+								contract and on-demand facility service and cleaning solutions.  We 
+								will customize an office-cleaning program specifically for your 
+								business. From reception areas to restrooms, SOBE Organic 
+								Cleaning has the resources and expertise to handle all of your 
+								cleaning needs. 
+						</p>
+						<p>
+						 
+								Do not hesitate to create a cleaner environment in your place of 
+								business. Request a quote and learn how we can help you present a 
+								professional image in your office. 
+						</p>
+						
+						
 						<p class="backup scroll">
 							<a href="#home">back up &uarr;</a>
 						</p>
