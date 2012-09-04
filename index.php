@@ -345,7 +345,9 @@
 								business. Request a quote and learn how we can help you present a 
 								professional image in your office. 
 						</p>
-						
+						<p>
+								<span class="scroll"><a href="#getstarted">Get started!</a></span>
+						</p>
 						
 						<p class="backup scroll">
 							<a href="#home">back up &uarr;</a>
@@ -436,35 +438,35 @@
 							<tr>
 								<th width="72%" scope="col">Initial Cleaning</th>
 								<th width="28%" scope="col">Fee</th>
-								<th width="28%" scope="col"><span style="color:Red">Promotional 20% Discount**</span></th>
+								<th width="28%" scope="col"><span style="color:Red">Promotional 15% Discount**</span></th>
 							</tr>
 							<tr>
 								<td>Studio-One Bedroom</td>
 								<td><div align="center" style="text-decoration:line-through">
 									$205
 								</div></td>
-								<td><div align="center">$164</div></td>
+								<td><div align="center">$174</div></td>
 							</tr>
 							<tr>
 								<td>Two Bedroom</td>
 								<td><div align="center" style="text-decoration:line-through">
 									$235
 								</div></td>
-								<td><div align="center">$188</div></td>
+								<td><div align="center">$200</div></td>
 							</tr>
 							<tr>
 								<td>Three Bedroom</td>
 								<td><div align="center" style="text-decoration:line-through">
 									$265
 								</div></td>
-								<td><div align="center">$212</div></td>
+								<td><div align="center">$225</div></td>
 							</tr>
 							<tr>
 								<td>Four Bedroom</td>
 								<td><div align="center" style="text-decoration:line-through">
 									$305
 								</div></td>
-								<td><div align="center">$244</div>
+								<td><div align="center">$259</div>
                                 </td>
 							</tr>
 							<tr>
@@ -491,7 +493,7 @@
 						</table>
 						</br>
 						<p>&nbsp;<small>
-						    ** Promotional discount ends July 31. Not to be combined with any other 
+						    ** Promotional discount ends October 31. Not to be combined with any other 
                             promotional offers.</small>
 						</p>
 <h2>
