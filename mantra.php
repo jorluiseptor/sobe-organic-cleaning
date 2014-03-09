@@ -8,7 +8,7 @@
 	
 	<?php require_once('functions.php'); 	?>
 	
-	<?php insert_head("Our Mantra | SOBE Organic Cleaning", "mantra"); ?>
+	<?php insert_head("Our Mantra | SOBE Organic Cleaning", "mantra", "Learn the history of how SOBE Organic Cleaning came to be in Our Mantra."); ?>
 	
 	<body>
 		<div id="container">

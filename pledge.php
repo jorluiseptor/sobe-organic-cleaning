@@ -8,7 +8,7 @@
 	<!--<![endif]-->
 	<?php require_once('functions.php'); 	?>
 	
-	<?php insert_head("Our Pledge | SOBE Organic Cleaning", "pledge"); ?>
+	<?php insert_head("Our Pledge | SOBE Organic Cleaning", "pledge", "We pledge to provide our customers with the highest level of service, while maintaining a positive and productive relationship with each of our clients. Read Our Pledge."); ?>
 	
 	<body>
 		<div id="container">

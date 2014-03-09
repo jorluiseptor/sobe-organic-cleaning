@@ -8,7 +8,7 @@
 	
 	<?php require_once('functions.php'); 	?>
 	
-	<?php insert_head("Carpet Cleaning | SOBE Organic Cleaning", "carpet, rugs"); ?>
+	<?php insert_head("Carpet Cleaning | SOBE Organic Cleaning", "carpet, rugs", "At SOBE Organic Cleaning, we proudly offer Green Steam Carpet Cleaning for environmentally friendly carpet/upholstery cleaning and stain removal! Read more about this."); ?>
 	
 	<body>
 		<div id="container">
