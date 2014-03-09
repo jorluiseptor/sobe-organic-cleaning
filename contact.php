@@ -7,7 +7,7 @@
 	<!--<![endif]-->
 	<?php require_once('functions.php'); 	?>
 	
-	<?php insert_head("Contact Us! | SOBE Organic Cleaning", "contact"); ?>
+	<?php insert_head("Contact Us! | SOBE Organic Cleaning", "contact", "Contact us for estimates, ask your questions, or to schedule our services."); ?>
 
 	
 	<body>

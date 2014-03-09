@@ -7,7 +7,7 @@
 <!--<![endif]-->
 	<?php require_once('functions.php'); 	?>
 	
-	<?php insert_head("SOBE Organic Cleaning", "green"); ?>
+	<?php insert_head("SOBE Organic Cleaning", "green", "SOBE Organic is the leading organic cleaning company in the Washington, DC Metro area."); ?>
 	
 	<body>
 		<div id="container">

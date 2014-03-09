@@ -9,7 +9,7 @@
 	
 	<?php require_once('functions.php'); 	?>
 	
-	<?php insert_head("Go Green | SOBE Organic Cleaning", "green"); ?>
+	<?php insert_head("Go Green | SOBE Organic Cleaning", "green", "Protecting the Earth is all of our responsibility and benefits everyone. Learn more about going green and what you can do to help."); ?>
 	
 	<body>
 		<div id="container">

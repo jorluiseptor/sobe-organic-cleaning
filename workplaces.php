@@ -8,7 +8,7 @@
 
 	<?php require_once('functions.php'); 	?>
 	
-	<?php insert_head("Greener Workplaces | SOBE Organic Cleaning", "workplace"); ?>	
+	<?php insert_head("Greener Workplaces | SOBE Organic Cleaning", "workplace", "Presenting a clean business environment is paramount to impressing clients and customers, as well as improving morale among your employees."); ?>	
 	<body>
 		<div id="container">
 		

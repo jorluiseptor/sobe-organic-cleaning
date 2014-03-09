@@ -4,7 +4,7 @@
 #inserts the head tag
 #parameter title: the first part of the title
 #parameter keywords: additional meta keywords to include
-function insert_head($title, $keywords)
+function insert_head($title, $keywords, $description)
 {
 	echo '
 		<head>
@@ -15,9 +15,8 @@ function insert_head($title, $keywords)
 			<meta http-equiv="Content-Language" content="en">
 			<meta charset="utf-8">
 			<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">		
-			<meta name="description" content="SOBE Organic is the leading organic cleaning company in the Washington, DC Metro area.">
+			<meta name="description" content="' . $description . '">
 			<meta name="author" content="Jorge Sepulveda, jorluiseptor.com">		
-			<!-- Mobile viewport optimized: j.mp/bplateviewport -->
 			<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 			<link rel="shortcut icon" href="/favicon.ico">
