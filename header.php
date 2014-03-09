@@ -8,7 +8,8 @@
 						<li class="scroll"><a href="index.php">Home</a></li>
 						<li class="scroll"><a href="mantra.php">Our Mantra</a></li>
 						<li class="scroll"><a href="green.php">Go Green</a></li>
-						<li class="scroll"><a href="workplaces.php">Greener Workplaces</a></li>						
+						<li class="scroll"><a href="workplaces.php">Greener Workplaces</a></li>	
+						<li class="scroll"><a href="carpet.php">Carpet Cleaning</a></li>						
 						<li class="scroll"><a href="services.php">Services &amp; Fees</a></li>
 						<li class="scroll"><a href="qa.php">Q &amp; A</a> </li>
 						<li class="scroll"><a href="contact.php">Contact Us</a></li>

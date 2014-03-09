@@ -10,9 +10,6 @@
                         <small>Mon - Fri,  9a - 5p</small><br/>
 						<a href="mailto:info@sobeorganic.com">info@sobeorganic.com</a>
 					</p>
-					<p class="gbb">
-						<a href="http://www.gbb.org/business/sobe-organic-cleaning-llc/" target="_blank" title="We're certified!"></a>
-					</p>
                     <p class="betterlife">
                         <a href="http://www.cleanhappens.com" target="_blank" title="SOBE's official supplier."></a>
                     </p>
@@ -27,16 +24,18 @@
 					<div id="footer">
 						<p>
 							<?php 
-    			$time = time () ; 
-    			//This line gets the current time off the server
-    
-    			$year= date("Y",$time); 
-    			 //This line formats it to display just the year
-    
-    			echo "Copyright " . $year;
-    			 //this line prints out the copyright date range, you need to edit 2002 to be your opening year
-    			 ?>
-							site by <a	href="http://jorluiseptor.com" target="_blank">Jorge Sepúlveda</a>
+								$time = time () ; 
+								//This line gets the current time off the server
+					
+								$year= date("Y",$time); 
+								 //This line formats it to display just the year
+					
+								echo "Copyright " . $year . ".";
+										
+								 //this line prints out the copyright date range, you need to edit 2002 to be your opening year
+							?>
+						
+							Site by <a	href="http://jorluiseptor.com" target="_blank">Jorge Sepulveda.</a>
 						</p>
 					</div>
 				</div>

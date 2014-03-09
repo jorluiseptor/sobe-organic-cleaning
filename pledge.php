@@ -6,12 +6,9 @@
 <!--[if (gte IE 9)|!(IE)]><!-->
 <html class="no-js" lang="en">
 	<!--<![endif]-->
-	<head>
-		<title>Our Pledge | SOBE Organic Cleaning</title>
-		<meta name="keywords" content="pledge, SOBE, cleaning, clean, carpet, business, washington, dc, district, columbia, virginia, maryland, green, pet, safe, family, professional, efficient">
-		
-		<?php include("otherheadinfo.php"); ?>
-	</head>
+	<?php require_once('functions.php'); 	?>
+	
+	<?php insert_head("Our Pledge | SOBE Organic Cleaning", "pledge"); ?>
 	
 	<body>
 		<div id="container">

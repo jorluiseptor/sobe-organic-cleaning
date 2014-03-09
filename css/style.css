@@ -480,20 +480,8 @@ a:hover
 {
 	color: #333;
 }
-.page
-  
- 
- 
- 
-{
-	margin-bottom: 800px;
-}
-.backup
-{
-	margin-top: 20px;
-	text-align: right;
-	clear: both;
-}
+
+
 .imgfix
  
 {
@@ -537,13 +525,7 @@ a:hover
 	padding: 10px;
 	width: 185px;
 }
-.dropcap:first-letter{
-	font-size: 36px;
-	float: left;
-	padding: 5px;
-	line-height: 1;
-	text-shadow: 0 0 5px grey;
-}
+
 
 #social
 {

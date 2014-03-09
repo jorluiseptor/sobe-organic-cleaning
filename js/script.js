@@ -14,11 +14,7 @@ $(document).ready(function() {
 	//adds class of 'over' to each table row when the mouse is over that row. will remove on mouseout	
 		$("table tr").mouseover(function() {$(this).addClass("over");}).mouseout(function() {$(this).removeClass("over");});	
 		
-	//scroll to
-		$('.scroll').localScroll({hash:true});
 	
-	//scrollable testimonials
-		$('.scrollable').scrollable();
 		
 	// if browser supports input field placeholder, 
 		//then hide the field label
@@ -130,6 +126,7 @@ $(document).ready(function() {
 
 
 	//to create expandable sections
+		/**/
 		  //hide the all of the element with class msg_body
 		  $(".msg_body").hide();
 		  //toggle the componenet with class msg_body
@@ -140,7 +137,7 @@ $(document).ready(function() {
 			//changes the icon form + to -
 			$(this).toggleClass("minusicon");
 		  });
-
+		
 });
 
 

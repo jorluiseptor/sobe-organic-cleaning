@@ -5,13 +5,10 @@
 <!--[if (gte IE 9)|!(IE)]><!-->
 <html class="no-js" lang="en">
 	<!--<![endif]-->
-	<head>
-		<title>Greener Workplaces | SOBE Organic Cleaning</title>
-		<meta name="keywords" content="workplaces, contact, SOBE, cleaning, clean, carpet, business, washington, dc, district, columbia, virginia, maryland, green, pet, safe, family, professional, efficient">
-		
-		<?php include("otherheadinfo.php"); ?>
-	</head>
+
+	<?php require_once('functions.php'); 	?>
 	
+	<?php insert_head("Greener Workplaces | SOBE Organic Cleaning", "workplace"); ?>	
 	<body>
 		<div id="container">
 		

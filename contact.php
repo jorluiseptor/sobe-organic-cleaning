@@ -5,16 +5,13 @@
 <!--[if (gte IE 9)|!(IE)]><!-->
 <html class="no-js" lang="en">
 	<!--<![endif]-->
-	<head>
+	<?php require_once('functions.php'); 	?>
 	
-		<title>Contact Us! | SOBE Organic Cleaning</title>
-		<meta name="keywords" content="contact, SOBE, cleaning, clean, carpet, business, washington, dc, district, columbia, virginia, maryland, green, pet, safe, family, professional, efficient">
-		
-		<?php include("otherheadinfo.php"); ?>
-		
-	</head>
+	<?php insert_head("Contact Us! | SOBE Organic Cleaning", "contact"); ?>
+
 	
 	<body>
+		
 		<div id="container">
 		
 			<?php include("header.php"); ?>

@@ -5,13 +5,9 @@
 <!--[if (gte IE 9)|!(IE)]><!-->
 <html class="no-js" lang="en">
 <!--<![endif]-->
-	<head>
-		
-		<title>SOBE Organic Cleaning</title>
-		<meta name="keywords" content="SOBE, cleaning, clean, carpet, business, washington, dc, district, columbia, virginia, maryland, green, pet, safe, family, professional, efficient">
-		<?php include("otherheadinfo.php"); ?>		
-
-	</head>
+	<?php require_once('functions.php'); 	?>
+	
+	<?php insert_head("SOBE Organic Cleaning", "green"); ?>
 	
 	<body>
 		<div id="container">
@@ -20,6 +16,13 @@
 			<div id="main" role="main">
 				<div class="float-left" id="content">
 					<section id="home" class="page">
+					
+						<h1>
+							SOBE Organic Cleaning
+						</h1>
+						<p>
+							SOBE is the leading organic cleaning company in the Washington, DC Metro area.
+						</p>					
 						<div class="gallery">
 							<div class="fade">
 								<div class="details">
@@ -65,7 +68,8 @@
 	
 							<div class="fade ">
 								<div class="details">
-									SOBE Organic Cleaning is proud to be a member of the Green Business Bureau. <a href="http://www.gbb.org/business/sobe-organic-cleaning-llc/" target="_blank">Read more about this</a>.
+									We proudly offer Green Steam Carpet Cleaning for environmentally friendly carpet/upholstery cleaning and stain removal! 
+									 <a href="carpet.php">Read more about this.</a>
 								</div>
 								<div>
 									<img src="img/dining-room.jpg" alt="Dining room" width="200" height="250" class="">
@@ -89,12 +93,7 @@
 							</div>
 							<br class="clearfix"/>
 						</div>
-						<h1>
-							SOBE Organic Cleaning
-						</h1>
-						<p>
-							SOBE is the leading organic cleaning company in the Washington, DC Metro area.
-						</p>
+
 					</section>
 
 				</div>
