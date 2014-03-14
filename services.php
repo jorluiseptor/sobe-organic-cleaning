@@ -10,6 +10,7 @@
 	
 	<?php insert_head("Services & Fees | SOBE Organic Cleaning", "services, fees", "At SOBE Organic Cleaning we utilize our eco-friendly, impact cleaning technique to thoroughly clean and sanitize your entire home. Read more about all our services and fees."); ?>	
 	<body>
+		<?php include("googleanalytics.php"); ?>	
 		<div id="container">
 		
 			<?php include("header.php"); ?>

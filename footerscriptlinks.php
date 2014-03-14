@@ -15,10 +15,3 @@
 		    <script>DD_belatedPNG.fix("img, .png_bg"); // Fix any <img> or .png_bg bg-images. Also, please read goo.gl/mZiyb </script>
 		<![endif]--> 
 		
-		<!-- mathiasbynens.be/notes/async-analytics-snippet Change UA-XXXXX-X to be your site's ID --> 
-		<script>
-		    var _gaq=[["_setAccount","UA-22863556-1"],["_trackPageview"]];
-		    (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];g.async=1;
-		    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-		    s.parentNode.insertBefore(g,s)}(document,"script"));
-		</script>

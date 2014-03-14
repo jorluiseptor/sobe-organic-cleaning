@@ -11,6 +11,7 @@
 	<?php insert_head("Questions & Answers | SOBE Organic Cleaning", "q&a, qa, questions, answers", "You may have lots of questions about SOBE Organic Cleaning and how we conduct our business. That's great--we value your questions and we're here to answer them for you! Read our Q & A."); ?>
 	
 	<body>
+		<?php include("googleanalytics.php"); ?>	
 		<div id="container">
 		
 			<?php include("header.php"); ?>

@@ -11,6 +11,7 @@
 	<?php insert_head("Carpet Cleaning | SOBE Organic Cleaning", "carpet, rugs", "At SOBE Organic Cleaning, we proudly offer Green Steam Carpet Cleaning for environmentally friendly carpet/upholstery cleaning and stain removal! Read more about this."); ?>
 	
 	<body>
+		<?php include("googleanalytics.php"); ?>
 		<div id="container">
 		
 			<?php include("header.php"); ?>

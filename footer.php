@@ -14,6 +14,17 @@
 	                        <li><a class="yelp" title="Check our reviews on Yelp" href="http://www.yelp.com/biz/sobe-organic-cleaning-washington" target="_blank"></a></li>
 							<li><a class="facebook" title="Find us on Facebook" href="http://facebook.com/sobeorganic" target="_blank"></a></li>
 							<li><a class="twitter" title="Follow us on Twitter" href="http://twitter.com/sobeorganic" target="_blank"></a></li>
+							<!-- Place this tag where you want the +1 button to render. -->
+							<div class="g-plusone" data-annotation="inline" data-width="200" data-align="right"></div>
+
+							<!-- Place this tag after the last +1 button tag. -->
+							<script type="text/javascript">
+							  (function() {
+								var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+								po.src = 'https://apis.google.com/js/platform.js';
+								var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+							  })();
+							</script>
 						</ul>
 						<p id="quickcontact" class="clearfix">
 							<span itemprop="telephone">202-885-9684</span><br/>

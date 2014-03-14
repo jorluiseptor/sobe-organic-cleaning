@@ -11,7 +11,7 @@
 
 	
 	<body>
-		
+		<?php include("googleanalytics.php"); ?>		
 		<div id="container">
 		
 			<?php include("header.php"); ?>
