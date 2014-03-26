@@ -1,0 +1,243 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 150.0,
+		"selected_items":
+		[
+			[
+				"wor",
+				"Word Wrap: Toggle"
+			],
+			[
+				"syntax",
+				"Set Syntax: PHP"
+			],
+			[
+				"syntax php",
+				"Set Syntax: PHP"
+			],
+			[
+				"side bar",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"syntax html",
+				"Set Syntax: HTML"
+			],
+			[
+				"",
+				"Bookmarks: Toggle"
+			],
+			[
+				"synta hml",
+				"Set Syntax: HTML"
+			],
+			[
+				"javascr",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Jorge/Documents/Projects/PayasaDulcinitaPR/js/vendor/jquery.cookie.js",
+		"/C/Users/Jorge/Documents/Projects/PayasaDulcinitaPR/servicios.php",
+		"/C/Users/Jorge/Documents/Projects/PayasaDulcinitaPR/humans.txt",
+		"/C/Users/Jorge/Documents/Projects/PayasaDulcinitaPR/js/vendor/placeholder.js",
+		"/C/Users/Jorge/Documents/Projects/PayasaDulcinitaPR/js/foundation/foundation.interchange.js",
+		"/C/Users/Jorge/Documents/Projects/sobeorganic/carpet.php",
+		"/C/Users/Jorge/Documents/Projects/PayasaDulcinitaPR/css/foundation.css",
+		"/C/Users/Jorge/Documents/Projects/PayasaDulcinitaPR/includes/nav.php",
+		"/C/Users/Jorge/Documents/Projects/PayasaDulcinitaPR/index.php",
+		"/C/Users/Jorge/Documents/Projects/PayasaDulcinitaPR/includes/footer.php",
+		"/C/Users/Jorge/Documents/Projects/PayasaDulcinitaPR/dulcinita.php",
+		"/C/wamp/bin/apache/Apache2.4.4/conf/extra/httpd-vhosts.conf",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/Jorge/Documents/Projects/PayasaDulcinitaPR/css/normalize.css",
+		"/C/Users/Jorge/Documents/Projects/PayasaDulcinitaPR/js/foundation.min.js",
+		"/C/Users/Jorge/Documents/Projects/PayasaDulcinitaPR/js/foundation/foundation.slider.js",
+		"/C/Users/Jorge/Documents/Projects/PayasaDulcinitaPR/js/vendor/jquery.js",
+		"/C/Users/Jorge/Documents/Projects/PayasaDulcinitaPR/img/.gitkeep",
+		"/C/Users/Jorge/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Jorge/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Jorge/Documents/Projects/sobeorganic/mail.php"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"payasadulcinitapr",
+			"?>  ",
+			"span",
+			"sobeorganic"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "carpet.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"ind",
+				"index.php"
+			],
+			[
+				"nav",
+				"includes\\nav.php"
+			],
+			[
+				"css",
+				"css\\foundation.css"
+			],
+			[
+				"fo",
+				"includes\\footer.php"
+			],
+			[
+				"dul",
+				"dulcinita.php"
+			],
+			[
+				"inde",
+				"index.php"
+			],
+			[
+				"hu",
+				"humans.txt"
+			],
+			[
+				"in",
+				"index.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 174.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
