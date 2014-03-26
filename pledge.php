@@ -11,6 +11,7 @@
 	<?php insert_head("Our Pledge | SOBE Organic Cleaning", "pledge", "We pledge to provide our customers with the highest level of service, while maintaining a positive and productive relationship with each of our clients. Read Our Pledge."); ?>
 	
 	<body>
+		<?php include("googleanalytics.php"); ?>	
 		<div id="container">
 		
 			<?php include("header.php"); ?>

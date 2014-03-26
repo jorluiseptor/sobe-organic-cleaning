@@ -11,6 +11,7 @@
 	<?php insert_head("Our Mantra | SOBE Organic Cleaning", "mantra", "Learn the history of how SOBE Organic Cleaning came to be in Our Mantra."); ?>
 	
 	<body>
+		<?php include("googleanalytics.php"); ?>	
 		<div id="container">
 		
 			<?php include("header.php"); ?>

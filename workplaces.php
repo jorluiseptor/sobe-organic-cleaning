@@ -10,6 +10,7 @@
 	
 	<?php insert_head("Greener Workplaces | SOBE Organic Cleaning", "workplace", "Presenting a clean business environment is paramount to impressing clients and customers, as well as improving morale among your employees."); ?>	
 	<body>
+		<?php include("googleanalytics.php"); ?>	
 		<div id="container">
 		
 			<?php include("header.php"); ?>

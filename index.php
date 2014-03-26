@@ -10,6 +10,7 @@
 	<?php insert_head("SOBE Organic Cleaning", "green", "SOBE Organic is the leading organic cleaning company in the Washington, DC Metro area."); ?>
 	
 	<body>
+		<?php include("googleanalytics.php"); ?>	
 		<div id="container">
 			<?php include("header.php"); ?>
 
