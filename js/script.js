@@ -5,8 +5,8 @@
 $(document).ready(function() {
 
     
-    //to enable corners on any element with the corner class
-		//$(".corner").corner("5px");
+	//scrollable testimonials
+		$('.scrollable').scrollable();
 		
 	//adds class 'alt' for every other table row
 		$('table tr:even').addClass('alt');
