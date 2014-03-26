@@ -15,7 +15,7 @@
 							<li><a class="facebook" title="Find us on Facebook" href="http://facebook.com/sobeorganic" target="_blank"></a></li>
 							<li><a class="twitter" title="Follow us on Twitter" href="http://twitter.com/sobeorganic" target="_blank"></a></li>
 							<!-- Place this tag where you want the +1 button to render. -->
-							<div class="g-plusone" data-annotation="inline" data-width="200" data-align="right"></div>
+							<div class="g-plusone" data-annotation="inline" data-width="200" data-align="right" data-href="http://sobeorganic.com/"></div>
 
 							<!-- Place this tag after the last +1 button tag. -->
 							<script type="text/javascript">
