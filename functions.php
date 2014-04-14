@@ -10,7 +10,7 @@ function insert_head($title, $keywords, $description)
 		<head>
 	
 			<title>'. $title .'</title>
-			<meta name="keywords" content="SOBE, cleaning, clean, carpet, business, washington, dc, district, 
+			<meta name="keywords" content="SOBE, cleaning, green, professional, housekeepers, housekeeping, eco-friendly, eco, friendly, upholstery, cleaning, service, office, clean, carpet, business, washington, dc, district, 
 			columbia, virginia, maryland, organic, home,
 			pet, safe, family, professional, efficient, carpet , house, maid, '.  $keywords . '">
 			
