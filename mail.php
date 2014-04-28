@@ -8,7 +8,7 @@
 
 // REPLACE THE LINE BELOW WITH YOUR E-MAIL ADDRESS.
 //info@sobeorganic.com, thodge@sobeorganic.com,
-$to = 'info@sobeorganic.com, adela@sobeorganic.com' ;
+$to = 'info@sobeorganic.com, adela@sobeorganic.com, cwilliams@sobeorganic.com, dchamp@sobeorganic.com' ;
 $subject = 'SOBE Organic Message' ;
 
 // NOT SUGGESTED TO CHANGE THESE VALUES
