@@ -3,55 +3,55 @@
 xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 	<url>
 		<loc>http://www.sobeorganic.com</loc>
-		<lastmod>2011-04-24</lastmod>
+		<lastmod>2014-03-25</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.8</priority>
 	</url>
 	<url>
 		<loc>http://www.sobeorganic.com/matra.php</loc>
-		<lastmod>2014-03-06</lastmod>
+		<lastmod>2014-03-25</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 		<url>
 		<loc>http://www.sobeorganic.com/green.php</loc>
-				<lastmod>2014-03-06</lastmod>
+				<lastmod>2014-03-25</lastmod>
 				<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>http://www.sobeorganic.com/workplaces.php</loc>
-		<lastmod>2014-03-06</lastmod>
+		<lastmod>2014-03-25</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>http://www.sobeorganic.com/qa.php</loc>
-		<lastmod>2014-03-06</lastmod>
+		<lastmod>2014-03-25</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>http://www.sobeorganic.com/services.php</loc>
-		<lastmod>2014-03-06</lastmod>
+		<lastmod>2014-03-25</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>http://www.sobeorganic.com/pledge.php</loc>
-		<lastmod>2014-03-06</lastmod>
+		<lastmod>2014-03-25</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>http://www.sobeorganic.com/carpet.php</loc>
-		<lastmod>2014-03-06</lastmod>
+		<lastmod>2014-03-25</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 		<url>
 		<loc>http://www.sobeorganic.com/contact.php</loc>
-		<lastmod>2014-03-06</lastmod>
+		<lastmod>2014-03-25</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>

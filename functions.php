@@ -27,6 +27,7 @@ function insert_head($title, $keywords, $description)
 			<!-- CSS: implied media="all" -->
 			<link rel="stylesheet" href="css/style.css">
 			<script src="js/libs/modernizr-1.7.min.js"></script>
+			<meta name="google-site-verification" content="L7XsxzdOX-9nSiQ7Z4AH7a9HYJSEwACQL3_IQBP03wg" /> 
 		
 		</head>	
 	'; 

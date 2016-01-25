@@ -1,11 +1,11 @@
 			<header>
 				<div id="navigation">
 					<p class="scroll">
-						<a href="index.php"><img src="img/logo.png" width="206" height="110" alt="SOBE Organic"></a>
+						<a href="http://www.sobeorganic.com/"><img src="img/logo.png" width="206" height="110" alt="SOBE Organic"></a>
 					</p>
 					<nav>
 					<ul>
-						<li class="scroll"><a href="index.php">Home</a></li>
+						<li class="scroll"><a href="http://www.sobeorganic.com/">Home</a></li>
 						<li class="scroll"><a href="mantra.php">Our Mantra</a></li>
 						<li class="scroll"><a href="green.php">Go Green</a></li>
 						<li class="scroll"><a href="workplaces.php">Greener Workplaces</a></li>	
@@ -109,4 +109,5 @@
 						</div>
 					</div>
 				</div>
+                
 			</header>

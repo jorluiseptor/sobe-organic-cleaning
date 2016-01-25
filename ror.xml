@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for http://www.sobeorganic.com/</title>
+  <link>http://www.sobeorganic.com/</link>
+
+<item>
+     <link>http://www.sobeorganic.com/</link>
+     <title>SOBE Organic Cleaning</title>
+     <description>SOBE Organic is the leading organic cleaning company in the Washington, DC Metro area.</description>
+     <ror:updatePeriod>weekly</ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.sobeorganic.com/mantra.php</link>
+     <title>Our Mantra | SOBE Organic Cleaning</title>
+     <description>Learn the history of how SOBE Organic Cleaning came to be in Our Mantra.</description>
+     <ror:updatePeriod>weekly</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.sobeorganic.com/green.php</link>
+     <title>Go Green | SOBE Organic Cleaning</title>
+     <description>Protecting the Earth is all of our responsibility and benefits everyone. Learn more about going green and what you can do to help.</description>
+     <ror:updatePeriod>weekly</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.sobeorganic.com/workplaces.php</link>
+     <title>Greener Workplaces | SOBE Organic Cleaning</title>
+     <description>Presenting a clean business environment is paramount to impressing clients and customers, as well as improving morale among your employees.</description>
+     <ror:updatePeriod>weekly</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.sobeorganic.com/carpet.php</link>
+     <title>Carpet Cleaning | SOBE Organic Cleaning</title>
+     <description>At SOBE Organic Cleaning, we proudly offer Green Steam Carpet Cleaning for environmentally friendly carpet/upholstery cleaning and stain removal! Read more about this.</description>
+     <ror:updatePeriod>weekly</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.sobeorganic.com/services.php</link>
+     <title>Services &amp; Fees | SOBE Organic Cleaning</title>
+     <description>At SOBE Organic Cleaning we utilize our eco-friendly, impact cleaning technique to thoroughly clean and sanitize your entire home. Read more about all our services and fees.</description>
+     <ror:updatePeriod>weekly</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.sobeorganic.com/qa.php</link>
+     <title>Questions &amp; Answers | SOBE Organic Cleaning</title>
+     <description>You may have lots of questions about SOBE Organic Cleaning and how we conduct our business. That's great--we value your questions and we're here to answer them for you! Read our Q &amp; A.</description>
+     <ror:updatePeriod>weekly</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.sobeorganic.com/contact.php</link>
+     <title>Contact Us! | SOBE Organic Cleaning</title>
+     <description>Contact us for estimates, ask your questions, or to schedule our services.</description>
+     <ror:updatePeriod>weekly</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.sobeorganic.com/pledge.php</link>
+     <title>Our Pledge | SOBE Organic Cleaning</title>
+     <description>We pledge to provide our customers with the highest level of service, while maintaining a positive and productive relationship with each of our clients. Read Our Pledge.</description>
+     <ror:updatePeriod>weekly</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
