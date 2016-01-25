@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 
 // THE BELOW LINE STATES THAT IF THE SUBMIT BUTTON
 // WAS PUSHED, EXECUTE THE PHP CODE BELOW TO SEND THE
@@ -8,7 +8,7 @@
 
 // REPLACE THE LINE BELOW WITH YOUR E-MAIL ADDRESS.
 //info@sobeorganic.com, thodge@sobeorganic.com,
-$to = 'info@sobeorganic.com, adela@sobeorganic.com, cwilliams@sobeorganic.com, dchamp@sobeorganic.com' ;
+$to = 'info@sobeorganic.com, adela@sobeorganic.com, cwilliams@sobeorganic.com, dchamp@sobeorganic.com, dchase@sobeorganic.com' ;
 $subject = 'SOBE Organic Message' ;
 
 // NOT SUGGESTED TO CHANGE THESE VALUES

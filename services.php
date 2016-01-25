@@ -1,4 +1,4 @@
-<!doctype html>
+﻿<!doctype html>
 <!--[if lt IE 7 ]> <html class="no-js ie6" lang="en"> <![endif]-->
 <!--[if IE 7 ]>    <html class="no-js ie7" lang="en"> <![endif]-->
 <!--[if IE 8 ]>    <html class="no-js ie8" lang="en"> <![endif]-->
@@ -102,31 +102,31 @@
 							<tbody><tr class="alt">
 								<th width="72%" scope="col">Initial Cleaning</th>
 								<th width="28%" scope="col">Fee</th>
-								<th width="28%" scope="col"><span style="color:Red">Jan-Mar Promotional  Discount**</span></th>
+								<th width="28%" scope="col"><span style="color:Red">Winter-Spring Promotional  Discount**</span></th>
 							</tr>
 							<tr class="">
 								<td>Studio-One Bedroom</td>
 								<td><div align="center" style="text-decoration:line-through">
 									$186								</div></td>
-								<td><div align="center">$149</div></td>
+								<td><div align="center">$129</div></td>
 							</tr>
 							<tr class="alt">
 								<td>Two Bedroom</td>
 								<td><div align="center" style="text-decoration:line-through">
 									$205</div></td>
-								<td><div align="center">$169</div></td>
+								<td><div align="center">$159</div></td>
 							</tr>
 							<tr>
 								<td>Three Bedroom</td>
 								<td><div align="center" style="text-decoration:line-through">
 									$235</div></td>
-								<td><div align="center">$199</div></td>
+								<td><div align="center">$189</div></td>
 							</tr>
 							<tr class="alt">
 								<td>Four Bedroom</td>
 								<td><div align="center" style="text-decoration:line-through">
 									$260</div></td>
-								<td><div align="center">$239</div>
+								<td><div align="center">$229</div>
                                 </td>
 							</tr>
 							<tr>
@@ -159,10 +159,10 @@
                             </tr>
 						</tbody></table>
 						<br>
-						<p>&nbsp;<small>
-						    ** Promotional discount ends March 31. Not to be combined with any other 
-                            promotional offers.</small>
-						</p>
+						<p style="color:Red">(<strong>Initial Cleaning Specia</strong>l: Complimentary Oven <u><em><strong>or </strong></em></u>Refrigerator Cleaning)&nbsp;</p>
+						<p><small>** Promotional discount ends May 31st. Not to be combined with any other 
+						  promotional offers.</small>
+						  </p>
 <h2>
 							Additional Services
 						</h2>

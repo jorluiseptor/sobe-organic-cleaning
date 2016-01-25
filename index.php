@@ -6,8 +6,8 @@
 <html class="no-js" lang="en">
 <!--<![endif]-->
 	<?php require_once('functions.php'); 	?>
-	
 	<?php insert_head("SOBE Organic Cleaning", "green", "SOBE Organic is the leading organic cleaning company in the Washington, DC Metro area."); ?>
+    
 	
 	<body>
 		<?php include("googleanalytics.php"); ?>	
@@ -30,7 +30,7 @@
 									Learn the history of how SOBE Organic Cleaning came to be in <span class="scroll"><a href="mantra.php">Our Mantra</a>.</span>
 								</div>
 								<div>
-									<img src="img/green-livingroom.jpg" alt="" width="200" height="250" class="">
+									<img src="img/green-livingroom.jpg" alt="Green Livingroom" width="200" height="250" class="">
 								</div>
 							</div>
 							<div class="fade">
@@ -38,7 +38,7 @@
 									Protecting the Earth is all of our responsibility and benefits everyone. Learn more about <span class="scroll"><a href="green.php">going green and what you can do to help</a>.</span> 
 								</div>
 								<div>
-									<img src="img/chair-orange-wall.jpg" alt="" width="200" height="250" class="">
+									<img src="img/chair-orange-wall.jpg" alt="Chair Orange Wall" width="200" height="250" class="">
 								</div>
 							</div>
 							<div class="fade ">
@@ -46,7 +46,7 @@
 									We utilize our eco-friendly, "impact cleaning" technique to thoroughly clean and sanitize your entire home. Read more about all our <span class="scroll"><a href="services.php">services and fees</a>.</span>
 								</div>
 								<div>
-									<img src="img/green-white-livingroom.jpg" alt="" width="200" height="250" class="">
+									<img src="img/green-white-livingroom.jpg" alt="Green White Living Room" width="200" height="250" class="">
 								</div>
 							</div>
 							<div class="fade ">
@@ -54,7 +54,7 @@
 									By now you may have lots of questions about SOBE Organic Cleaning and how we conduct our business. That's great--we value your questions and we're here to answer them for you! <span class="scroll"><a href="qa.php">Read our Q & A</a>.</span> 
 								</div>
 								<div>
-									<img src="img/bathroom.jpg" alt="" width="200" height="250" class="">
+									<img src="img/bathroom.jpg" alt="Bathroom" width="200" height="250" class="">
 								</div>
 							</div>
 							<div class="fade ">
@@ -62,7 +62,7 @@
 									We pledge to provide our customers with the highest level of service, while maintaining a positive and productive relationship with each of our clients. Read <a href="pledge.php">Our Pledge</a>.
 								</div>
 								<div>
-									<img src="img/bed.jpg" alt="" width="200" height="250" class="">
+									<img src="img/bed.jpg" alt="Bed" width="200" height="250" class="">
 								</div>
 							</div>
 							

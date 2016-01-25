@@ -35,7 +35,7 @@
 							<a href="mailto:info@sobeorganic.com"><span itemprop="email">info@sobeorganic.com</span></a>
 						</p>
 	                    <p class="betterlife">
-	                        <a href="http://www.cleanhappens.com" target="_blank" title="SOBE's official supplier."></a>
+	                        <a href="http://www.cleanhappens.com" target="_blank" title="SOBE's official supplier." rel="nofollow"></a>
 	                    </p>
 	                    <p id="pledge-link">
 	                    <a href="pledge.php">Our Pledge</a>
@@ -62,7 +62,7 @@
 								 //this line prints out the copyright date range, you need to edit 2002 to be your opening year
 							?>
 						
-							Site by <a	href="http://jorluiseptor.com" target="_blank">Jorge Sepulveda.</a>
+							Site by <a	href="http://jorluiseptor.com" target="_blank" rel="nofollow">Jorge Sepulveda.</a>
 						</p>
 					</div>
 				</div>

