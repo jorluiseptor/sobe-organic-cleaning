@@ -108,25 +108,25 @@
 								<td>Studio-One Bedroom</td>
 								<td><div align="center" style="text-decoration:line-through">
 									$186								</div></td>
-								<td><div align="center">$129</div></td>
+								<td><div align="center">$99</div></td>
 							</tr>
 							<tr class="alt">
 								<td>Two Bedroom</td>
 								<td><div align="center" style="text-decoration:line-through">
 									$205</div></td>
-								<td><div align="center">$159</div></td>
+								<td><div align="center">$129</div></td>
 							</tr>
 							<tr>
 								<td>Three Bedroom</td>
 								<td><div align="center" style="text-decoration:line-through">
 									$235</div></td>
-								<td><div align="center">$189</div></td>
+								<td><div align="center">$159</div></td>
 							</tr>
 							<tr class="alt">
 								<td>Four Bedroom</td>
 								<td><div align="center" style="text-decoration:line-through">
 									$260</div></td>
-								<td><div align="center">$229</div>
+								<td><div align="center">$199</div>
                                 </td>
 							</tr>
 							<tr>
