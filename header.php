@@ -9,8 +9,7 @@
 						<li class="scroll"><a href="mantra.php">Our Mantra</a></li>
 						<li class="scroll"><a href="green.php">Go Green</a></li>
 						<li class="scroll"><a href="workplaces.php">Greener Workplaces</a></li>	
-						<li class="scroll"><a href="carpet.php">Carpet Cleaning</a></li>						
-						<li class="scroll"><a href="services.php">Services &amp; Fees</a></li>
+						<li class="scroll"><a href="carpet.php">Carpet Cleaning</a></li>
 						<li class="scroll"><a href="qa.php">Q &amp; A</a> </li>
 						<li class="scroll"><a href="contact.php">Contact Us</a></li>
 					</ul>
@@ -82,7 +81,7 @@
 								      <meta itemprop="bestRating" content = "5"/>
 								    </div>
 									<p><span itemprop="description">
-										"Great service, great convenience… just plain great!" </span><span itemprop="author">Kris M.</span>
+										"Great service, great convenienceï¿½ just plain great!" </span><span itemprop="author">Kris M.</span>
 									</p>
 								</div>
 								<div itemprop="review" itemscope itemtype="http://schema.org/Review">
@@ -102,7 +101,7 @@
 								      <meta itemprop="bestRating" content = "5"/>
 								    </div>
 									<p > <span itemprop="description">
-										"Great customer service goes a long way…not to mention the feeling of coming home to an incredibly clean home after a hard day at work.  Thanks SOBE!" </span><span itemprop="author">Monica R.</span>
+										"Great customer service goes a long wayï¿½not to mention the feeling of coming home to an incredibly clean home after a hard day at work.  Thanks SOBE!" </span><span itemprop="author">Monica R.</span>
 									</p>
 								</div>
 							</div>

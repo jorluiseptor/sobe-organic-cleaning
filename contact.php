@@ -74,18 +74,7 @@
 									<input type="text" name="Zip" placeholder="Zip *">
 									</input>
 								</p>
-								<div class="">
-                                    <p>
-									<!-- <span>Own Pets? *</span> -->
-									
-                                    
-                                    <select name="Pets" placeholder="Pets?">
-                                    	<option value="">Own Pets?</option>
-                                    	<option value="Yes">Yes</option>
-                                    	<option value="No">No</option>
-                                    </select>
-                                    </p>
-								</div>
+
                                 
 								<br>
 								<div class="clearfix">
@@ -96,17 +85,7 @@
 									</p>
 								</div>
 								<div class="clearfix">
-									<p>
-										<label>Number of bedrooms *</label>
-										<select placeholder="Bedrooms *" name="Bedrooms">
-											<option value="">Number of bedrooms *</option>
-											<option value="1">1</option>
-											<option value="2">2</option>
-											<option value="3">3</option>
-											<option value="4">4</option>
-											<option value="5">5</option>
-										</select>
-									</p>
+
 									<p>
 										<label>Number of Bathrooms *</label>
 										<select placeholder="Baths" name="Baths">

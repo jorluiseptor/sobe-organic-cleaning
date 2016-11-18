@@ -43,7 +43,7 @@
 							</div>
 							<div class="fade ">
 								<div class="details">
-									We utilize our eco-friendly, "impact cleaning" technique to thoroughly clean and sanitize your entire home. Read more about all our <span class="scroll"><a href="services.php">services and fees</a>.</span>
+									We utilize our eco-friendly, "impact cleaning" technique to thoroughly clean and sanitize your entire workplace.
 								</div>
 								<div>
 									<img src="img/green-white-livingroom.jpg" alt="Green White Living Room" width="200" height="250" class="">
