@@ -64,36 +64,20 @@ $(document).ready(function() {
 					//what to do when the form is valid
 					submitHandler: function(form) {
 					
-						//if they slid the arrow
-						if ($(".TxtStatus").hasClass("dropSuccess"))
-							{
-								$("#formfeedback").show('slow').html('<img src="img/ajax-loader.gif"/> Sending...');
-								
-								//send form info
-								$.post("mail.php", $("form").serialize(), function(){	
-										//tell user that form is sent
-									$("span#formfeedback").html("Message Sent!");	
-								});				
-								return false;
-								
-							}
-						else {
-								$("#formfeedback").show('slow').html('Please slide the arrow to the right.');
-						}
+						$("#formfeedback").show('slow').html('<img src="img/ajax-loader.gif"/> Sending...');
+						
+						//send form info
+						$.post("mail.php", $("form").serialize(), function(){	
+								//tell user that form is sent
+							$("span#formfeedback").html("Message Sent!");	
+						});				
+						return false;
+						
 					} 
 					
 			});	
 		
-	//Qaptcha
-		$('.QapTcha').QapTcha({
-			autoSubmit : false,
-			autoRevert : true, 
-			disabledSubmit: false,
-			PHPfile : 'Qaptcha.jquery.php'
-		});
-			
 
-  
 		
 	
 

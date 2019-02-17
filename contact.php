@@ -133,21 +133,12 @@
                                     </p>
                                 </div>
 								<div style="display:none">
-									<!-- this field is to prevent spam
-											if its filled, then it is spam -->
+									<!-- this field is to prevent spam if its filled, then it is spam -->
 									Please leave this field empty.
 									<input type="text" name="body"/>
 								</div>
-								<div > 
-									<!--Captcha -->
 								
-									<div class="QapTcha">
-									<span>Are you human? Please slide the arrow to the right.<span>
-									</div> 
-									<br style="clear:both;"/>
-								</div>
-								<input id="submit" type="submit" value="Submit">
-								</input>
+								<input id="submit" type="submit" value="Submit"></input>
 								<span id="formfeedback"></span>
 							</form>
 						</article>

@@ -42,31 +42,32 @@ $headers= "From: ". $_POST["Name"] . "<".$_POST [ "Email" ].">". "\r\n".
 	//VALIDATION
 	//VALIDATE VIA TOKEN
 	$proceed = false;
-	$seconds = 60*10;
     
 	if(
         //ensure that fields are populated
         isset($_POST['ts']) && 
         isset($_COOKIE['token']) && 
-        isset($_POST [ "Name" ]) &&
-        isset($_POST [ "Email" ]) &&
-        isset($_POST[ "Phone"]) &&
-        isset($_POST["Pets"]) &&
+
+        isset($_POST["Name"]) &&
+        isset($_POST["Email"]) &&
+        isset($_POST["Phone"]) &&
         isset($_POST["Address"]) &&
         isset($_POST["City"]) &&
         isset($_POST["State"]) &&
         isset($_POST["Zip"]) &&
         isset($_POST["ApproxSquareFeet"]) &&
         isset($_POST["Frequency"]) &&
-        isset( $_POST["Bedrooms"]) &&
         isset($_POST["Baths"]) &&
         isset($_POST["Source"]) &&
+        
         //if the body field is filled, then this is spam
         //only send the email if this field is empty
         empty($_POST["body"]) &&
         //compare cookie with token
         $_COOKIE['token'] == md5('sobeorganic'.$_POST['ts'])
-    ) $proceed = true;
+    ) {
+        $proceed = true;
+    }
 		
 
 
