@@ -16,7 +16,7 @@
 							<li><a class="twitter" title="Follow us on Twitter" href="http://twitter.com/sobeorganic" target="_blank"></a></li>							
 						</ul>
 						<p id="quickcontact" class="clearfix">
-							<span itemprop="telephone">202-885-9684</span><br/>
+							<span itemprop="telephone">202-573-7093</span><br/>
 	                        <small>
 	                            <time itemprop="openingHours" itemscope itemtype="http://schema.org/LocalBusiness" datetime="Mo-Fr 09:00-17:00">Mon - Fri,  9a - 5p</time>
 	                        </small>
